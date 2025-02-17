@@ -33,9 +33,9 @@ Sou apaixonado por tecnologia, programação e inovação. Estou sempre em busca
 
 ## 📈 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarlanHenrique&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHenrique&layout=compact&theme=radical)
 
 ---
 

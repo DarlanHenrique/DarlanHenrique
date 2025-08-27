@@ -1,37 +1,36 @@
-# 👋 Olá, eu sou Darlan!
+# 👋 Hi, I'm Darlan!
 
-### 🌟 Sobre mim:
-Sou apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e aprendizados no mundo da tecnologia. Meus interesses incluem desenvolvimento web, especialmente programar em PHP.
+### 🌟 About me:
+I'm passionate about technology, programming, and innovation. I'm always looking for new challenges and learning in the world of technology. My interests include web development, especially PHP programming.
 
-- 🔭 Atualmente estou trabalhando em: **PHP**
-- 🌱 Estou aprendendo: **React, React Native**
-- 💬 Pergunte-me sobre: **Laravel**
-
-### 🛠️ Habilidades:
-- **Linguagens de Programação**: 
-  - PHP, JavaScript, Java, C++
-- **Frameworks & Bibliotecas**:
-  - React, Typesctipt, Laravel
-- **Ferramentas & Tecnologias**:
-  - Git, Docker
+- 🔭 I'm currently working on: **PHP**
+- 🌱 I'm learning: **React, React Native**
+- 💬 Ask me about: **Laravel**
+- 
+### 🛠️ Skills:
+- **Programming Languages**:
+- PHP, JavaScript, Java, C++
+- **Frameworks & Libraries**:
+- React, Typescript, Laravel
+- **Tools & Technologies**:
+- Git, Docker
 
 ### 📚 Projetos Recentes:
-1. **[Nome do Projeto 1]** - _Breve descrição do projeto._ ([Link para o repositório](https://github.com/seuusuario/repositorio))
-2. **[Nome do Projeto 2]** - _Breve descrição do projeto._ ([Link para o repositório](https://github.com/seuusuario/repositorio))
-3. **[Nome do Projeto 3]** - _Breve descrição do projeto._ ([Link para o repositório](https://github.com/seuusuario/repositorio))
+1. **[Sync Schedule]** - _This is short, sweet, and perfect for the GitHub repository's "About" section. A multi-tenant, real-time appointment scheduling platform for local businesses. Built with a Laravel 12 API backend and a React Native mobile client. Key features include complete data isolation per tenant and live calendar updates via WebSockets._ ([Link para o repositório](https://github.com/DarlanHenrique/sync-schedule))
+2. **[Link Shortener]** - _A simple and efficient URL shortener built with the PHP framework Laravel. This project transforms long links into short, easy-to-share URLs. Developed for learning purposes and as part of my developer portfolio.._ ([Link para o repositório](https://github.com/DarlanHenrique/link-shortener))
+3. **[Anime Stream Interface]** - _This project, developed with React, TypeScript, and Vite, consumes data from the MyAnimeList API to display information about popular anime. The project's goal is to provide a user-friendly and responsive interface so users can efficiently explore and search for anime._ ([Link para o repositório]([https://github.com/seuusuario/repositorio](https://github.com/DarlanHenrique/anime-stream-interface)))
 
-
-### 📫 Como me contatar:
-- Email: [darlan.silva@ice.ufjf.br](mailto:darlan.silva@ice.ufjf.br)
+### 📫 How to contact me:
+- Email: [darlan.silva@ice.ufjf.br](mailto:darlan.silva@estudante.ufjf.br)
 - LinkedIn: [linkedin.com/in/darlan-costa-silva](https://www.linkedin.com/in/darlan-costa-silva)
 
-### 🎯 Metas Futuras:
-- Aprender mais sobre **PHP/React/React Native**
-- Publicar artigos técnicos sobre **[assunto de interesse]**
+### 🎯 Future Goals:
+- Learn more about **PHP/React/React Native**
+- Publish technical articles on **[topic of interest]**
 
 ---
 
-## 📈 Estatísticas do GitHub:
+## 📈 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarlanHenrique&show_icons=true&theme=radical)
 
@@ -39,7 +38,6 @@ Sou apaixonado por tecnologia, programação e inovação. Estou sempre em busca
 
 ---
 
-### 🙌 Apoie meu trabalho:
-Se você gostou do meu trabalho ou achou útil, considere dar uma ⭐️ ao repositório! Isso me motiva a continuar criando conteúdo de qualidade.
-
+### 🙌 Support my work:
+If you liked my work or found it useful, please consider giving the repository a ⭐️! This motivates me to continue creating quality content.
 ---

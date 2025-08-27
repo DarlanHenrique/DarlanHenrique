@@ -21,7 +21,7 @@ I'm passionate about technology, programming, and innovation. I'm always looking
 3. ([**Anime Stream Interface**](https://github.com/DarlanHenrique/anime-stream-interface)) - _This project, developed with React, TypeScript, and Vite, consumes data from the MyAnimeList API to display information about popular anime. The project's goal is to provide a user-friendly and responsive interface so users can efficiently explore and search for anime._ 
 
 ### 📫 How to contact me:
-- Email: [darlan.silva@ice.ufjf.br](mailto:darlan.silva@estudante.ufjf.br)
+- Email: [darlan.silva@estudante.ufjf.br](mailto:darlan.silva@estudante.ufjf.br)
 - LinkedIn: [linkedin.com/in/darlan-costa-silva](https://www.linkedin.com/in/darlan-costa-silva)
 
 ### 🎯 Future Goals:

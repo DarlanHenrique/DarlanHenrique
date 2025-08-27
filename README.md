@@ -6,7 +6,7 @@ I'm passionate about technology, programming, and innovation. I'm always looking
 - 🔭 I'm currently working on: **PHP**
 - 🌱 I'm learning: **React, React Native**
 - 💬 Ask me about: **Laravel**
-- 
+  
 ### 🛠️ Skills:
 - **Programming Languages**:
   - PHP, JavaScript, Java, C++
